@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm [Your Name], a passionate developer with a knack for creating innovative solutions. Here you'll find a glimpse of my projects spanning across various domains, primarily focusing on C++, Unity, and Python.
 
+<details>
 ## About Me
 
 I thrive on challenges and love diving into new technologies to solve real-world problems. With a strong foundation in computer science and a keen eye for detail, I strive to deliver high-quality and efficient code.
@@ -51,7 +52,7 @@ I'm always open to exciting opportunities and collaborations. Feel free to reach
 
 Thank you for stopping by! 😊
 
-
+</details>
 
 
 <!--
