@@ -1,54 +1,37 @@
-# Hello, World! 👋
+# Salutations! 👋
 
-Welcome to my GitHub profile! I'm [Your Name], a passionate developer with a knack for creating innovative solutions. Here you'll find a glimpse of my projects spanning across various domains, primarily focusing on C++, Unity, and Python.
+My name is Filip Georgiev and welcome/tervetuloa to my GitHub profile! Here you'll find a glimpse of my projects spanning across various domains, primarily in VR, Embedded Software Development, and Python simulations.
 
 <details>
-## About Me
-
-I thrive on challenges and love diving into new technologies to solve real-world problems. With a strong foundation in computer science and a keen eye for detail, I strive to deliver high-quality and efficient code.
+  <summary>
+    Projects
+  </summary>
 
 ## Projects
 
-### C++
+### Virtual Reality 🕶️
+[Inverse Kinematics Example](https://github.com/filkata123/InverseKinematicsExample): showcasing how to implement inverse kinematics in Unity.
 
-#### Project 1: [Project Name]
+[DID Simulation](https://github.com/filkata123/DID_Simulation): a Dissociative Identity Disorder (DID) Simulation that builds empathy
 
-Description: [Brief description of the project]
+[VR Horopter](https://github.com/filkata123/VRHoropter): investigating how different single-eye rendering techniques can manipulate vision and simulate motion on a dotted horopter surface.
 
-#### Project 2: [Project Name]
+[LightPainter](https://github.com/filkata123/LightPainter)/[UnrealArchitecture](https://github.com/filkata123/UnrealArchitecture): two projects that create a virtual 3D painter and a traversal simulator in Unreal 4 for an online course
 
-Description: [Brief description of the project]
+[VR minor files](https://github.com/filkata123/vr-minor): the unfortunate leftovers of an amazing project done during a VR minor on a privately-hosted gitlab instance. See [this video](https://www.youtube.com/watch?v=8djb-Sg1Us0) for a showcase.
 
-### Unity
+### Embedded Software Development 🛰️
+[One Click Connect](https://github.com/filkata123/One-Click-Connect): enabling RaspberryPi to ESP8266 communication through RF with the click of a button
 
-#### Project 1: [Project Name]
+[Linux Driver Repo](https://github.com/filkata123/Embedded-Systems-6): this repo contains multiple linux drivers implemented for a course together with two other developers
 
-Description: [Brief description of the project]
 
-#### Project 2: [Project Name]
+### Simulations / Python 🐀
+[RSSTP](https://github.com/filkata123/RSSTP): testing platform for a robotic sensorimotor system
 
-Description: [Brief description of the project]
+[FindTheInfected](https://github.com/filkata123/game-find-the-infected): small CLI multiplayer game that showcases the power of Docker
 
-### Python
-
-#### Project 1: [Project Name]
-
-Description: [Brief description of the project]
-
-#### Project 2: [Project Name]
-
-Description: [Brief description of the project]
-
-## What I Bring to the Table
-
-- **Expertise**: Proficient in C++, Unity, and Python with hands-on experience in developing a wide range of applications.
-- **Problem Solver**: Thrive in challenging environments and enjoy brainstorming innovative solutions.
-- **Team Player**: Collaborative by nature, I enjoy working in teams to achieve common goals.
-- **Continuous Learner**: Passionate about learning and staying updated with the latest technologies and best practices.
-
-## Let's Connect!
-
-I'm always open to exciting opportunities and collaborations. Feel free to reach out to me via [email](mailto:your@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/).
+Most of my python simulation work has been set to private on the request of my university supervisors. Nevertheless the projects can be showcased upon request so feel free to ask me more about them!
 
 Thank you for stopping by! 😊
 
