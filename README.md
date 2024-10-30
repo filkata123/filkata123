@@ -10,6 +10,8 @@ My name is Filip Georgiev and welcome/tervetuloa to my GitHub profile! Here you'
 ## Projects
 
 ### Virtual Reality 🕶️
+[Mixed Reality Musical Car 🥇](https://github.com/V4C38/xrcc_ff0000): a mixed reality application which turns a real-life car into a musical beatmaking music machine (won automotive track at XR Creator Con 2024) 🏆
+
 [Inverse Kinematics Example](https://github.com/filkata123/InverseKinematicsExample): showcasing how to implement inverse kinematics in Unity.
 
 [DID Simulation](https://github.com/filkata123/DID_Simulation): a Dissociative Identity Disorder (DID) Simulation that builds empathy
