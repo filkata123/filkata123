@@ -1,6 +1,6 @@
 # Salutations! 👋
 
-My name is Filip Georgiev and welcome/tervetuloa to my GitHub profile! Here you'll find a glimpse of my projects spanning across various domains, primarily in VR, Embedded Software Development, and Python simulations.
+My name is Filip Georgiev and welcome/tervetuloa to my GitHub profile! Here you'll find a glimpse of my projects spanning across various domains, primarily in XR, Embedded Software Development, and Python simulations.
 
 <details>
   <summary>
